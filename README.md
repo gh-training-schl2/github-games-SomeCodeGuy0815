@@ -1,6 +1,6 @@
 ## Welcome to GitHub Games
 
-A project based learning activity for people who are getting started with Git and GitHub.
+A project based learning activity for people who are getting started with Git and GitHub!
 
 You can play the game at:  https://gh-training-schl2.github.io/github-games-SomeCodeGuy0815/
 
